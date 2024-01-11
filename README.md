@@ -1,6 +1,6 @@
 # EJERCICIOS BLOQUE 1
 
-En las siguientes líneas de código se ha implementado un programa que consiste en un menú, el cual contiene un conjunto de opciones a cuales a través de un switch podremos acceder a las funciones que les corresponden y que realizan diferentes acciones al recibir determinados parámetros. 
+En las siguientes líneas de código se ha implementado un programa que consiste en un menú, el cual contiene un conjunto de opciones a las cuales, a través de un switch, accederemos determinadas funciones, que realizan diferentes acciones al recibir determinados parámetros. 
 Las funciones que se realizan en el programa son las siguientes: 
 
 - _decimalBinario_: Esta función recibe por parámetro un número entero decimal y lo muestra por pantalla en binario.
