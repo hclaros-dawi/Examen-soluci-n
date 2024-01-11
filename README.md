@@ -1,7 +1,18 @@
-public static void main(String[] args) {
+# EJERCICIOS BLOQUE 1
+
+En las siguientes líneas de código se ha implememtado un programa que consiste en un menú, el cual contiene un conjunto de opciones a cuales a través de un switch podremos acceder a las funciones que les corresponden y que realizan diferentes acciones al recibir determinados parámetros. 
+Las funciones que se realizan en el programa son las siguientes: 
+
+- _decimalBinario_: Esta función recibe por parámetro un número entero decimal y lo muestra por pantalla en binario.
+- _binarioDecimal_: Esta función recibe por parámetro un número entero binario y lo muestra por pantalla en decimal.
+- _esPar_: Esta función recibe por parámetro un número entero y devuelve un booleano true y false si no lo es.
+- _primerosNumerosPares: Esta función recibe por parámetro un número entero n y muestra por pantalla todos los númeoros pares entre 0 y n.
+- _menu_: Esta función contiene las opciones que el usuario puede seleccionar.
+
+```
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int opcion;
-
         do {
             menu();
 
@@ -99,3 +110,4 @@ public static void main(String[] args) {
         System.out.println(numPar);
     }
 }
+```
