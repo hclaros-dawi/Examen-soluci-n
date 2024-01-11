@@ -6,7 +6,7 @@ Las funciones que se realizan en el programa son las siguientes:
 - _decimalBinario_: Esta función recibe por parámetro un número entero decimal y lo muestra por pantalla en binario.
 - _binarioDecimal_: Esta función recibe por parámetro un número entero binario y lo muestra por pantalla en decimal.
 - _esPar_: Esta función recibe por parámetro un número entero y devuelve un booleano true y false si no lo es.
-- _primerosNumerosPares: Esta función recibe por parámetro un número entero n y muestra por pantalla todos los númeoros pares entre 0 y n.
+- _primerosNumerosPares_: Esta función recibe por parámetro un número entero n y muestra por pantalla todos los númeoros pares entre 0 y n.
 - _menu_: Esta función contiene las opciones que el usuario puede seleccionar.
 
 ```
